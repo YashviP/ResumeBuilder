@@ -2,6 +2,6 @@
 
 Resume Builder using ruby
 
-#To run
+# To run
 
 $ ruby runner.rb
